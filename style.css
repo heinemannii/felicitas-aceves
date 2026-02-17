@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #111;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  padding: 20px;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+section {
+  padding: 120px 60px;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.proyecto {
+  margin-bottom: 60px;
+}
