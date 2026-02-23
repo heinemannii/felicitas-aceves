@@ -1,2 +1,0 @@
-# felicitas-aceves
-photography
